@@ -1,4 +1,14 @@
 {
     "vscode-corda.isCordaProject": false,
-    "C_Cpp.default.configurationProvider": "go2sh.cmake-integration"
+    "C_Cpp.default.configurationProvider": "go2sh.cmake-integration",
+    "editor.snippetSuggestions": "bottom",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "GithubGistExplorer.import.excludes": [
+
+        ".git",
+        ".gradle",
+        ".vscode",
+        "node_modules"
+    ],
+    "git.autofetch": true
 }
